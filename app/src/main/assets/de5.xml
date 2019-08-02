@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<ListQuestion>
+    <questionParse>
+        <question>Phần mềm BKAV là sản phẩm của?</question>
+        <a>Trung tâm An ninh mạng BKIS, Đại học Bách khoa TPHCM</a>
+        <b>Trung tâm An ninh mạng BKIS, Đại học Bách khoa Hà Nội</b>
+        <c>Trung tâm An ninh mạng BKIS, Đại học Sư phạm Hà Nội</c>
+        <d>Trung tâm An ninh mang BKIS, Đại học Sư phạm TPHCM</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>EULA là viết tắt của thuật ngữ gì?</question>
+        <a>End User License Agreement</a>
+        <b>Ended User License Agreement</b>
+        <c>Ending User License Agreement</c>
+        <d>Embed User License Agreement</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Địa chỉ website nào sau đây là sai cú pháp?</question>
+        <a>http://tuoitrevn</a>
+        <b>http://thsp.hcmup.edu.vn</b>
+        <c>http://hcmup.edu.vn</c>
+        <d>http://thsp.edu.vn</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Spyware là phần mềm gì?</question>
+        <a>Là phần mềm mở cổng hậu để xâm nhập và gây hại máy tính</a>
+        <b>Là phần mềm gây khó chịu cho người dùng bằng các chương trình quảng cáo</b>
+        <c>Là phần mềm thu thập trái phép thông tin trong máy tính</c>
+        <d>Là phần mềm thu thập trái phép thông tin được gõ trên máy tính</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Keylogger là phần mềm gì?</question>
+        <a>Là phần mềm mở cổng hậu để xâm nhập và gây hại máy tính</a>
+        <b>Là phần mềm gây khó chịu cho người dùng bằng các chương trình quảng cáo</b>
+        <c>Là phần mềm thu thập trái phép thông tin trong máy tính</c>
+        <d>Là phần mềm thu thập trái phép thông tin được gõ trên máy tính</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Máy quét (scanner) thuộc nhóm thiết bị nào?</question>
+        <a>Thiết bị lưu trữ</a>
+        <b>Thiết bị nhập</b>
+        <c>Thiết bị xuất</c>
+        <d>Thiết bị điều khiển</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Nguyên tắc hoạt động của virus máy tính thường là gì?</question>
+        <a>Lây nhiễm vào boot record</a>
+        <b>Tự nhân bản và lây nhiễm</b>
+        <c>Lây nhiễm vào các tập tin trên đĩa cứng</c>
+        <d>Lây nhiễm và phá hủy CMOS</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Máy chiếu (projector) kết nối với máy tính bằng loại cổng nào?</question>
+        <a>COM</a>
+        <b>PS/2</b>
+        <c>USB</c>
+        <d>VGA</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Windows 7, để chèn các ký tự đặc biệt vào chương trình MS Paint, cần gọi chương trình hỗ trợ nào?</question>
+        <a>Notepad</a>
+        <b>Character Map</b>
+        <c>Snipping tool</c>
+        <d>WordPad</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Sau khi dùng kỹ thuật nén không mất dữ liệ (lossless compression) trên máy tính, thì dữ liệu sau khi giải nén sẽ như thế nào?</question>
+        <a>Là dữ liệu ban đầu và có thời gian tạo lập là thời gian lúc bắt đầu nén dữ liệu</a>
+        <b>Không còn là dữ liệu ban đầu</b>
+        <c>Là dữ liệu ban đầu và có thời gian tạo lập là thời gian hiện hành</c>
+        <d>Là dữ liệu ban đầu trước khi nén</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, để xóa tập tin, ta dùng lệnh nào?</question>
+        <a>Copy</a>
+        <b>Paste</b>
+        <c>Rename</c>
+        <d>Delete</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, để chia sẻ 1 thư mục qua mạng nội bộ, ta dùng lệnh gì?</question>
+        <a>Send to</a>
+        <b>Share with</b>
+        <c>Open in new windows</c>
+        <d>Copy</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trên thanh taskbar của Windows 7, vùng chứa các biểu tượng ứng dụng thường sử dụng (giúp người dùng mở ứng dụng bằng 1 thao tác nhấp chuột) được gọi tên là gì?</question>
+        <a>Pin</a>
+        <b>Start</b>
+        <c>Date/Time</c>
+        <d>Show desktop</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Vì sao việc sao lưu các dữ liệu là rất cần thiết?</question>
+        <a>Để phòng ngừa những bất trắc làm hỏng dữ liệu có thể xảy ra</a>
+        <b>Để phòng chống virus</b>
+        <c>Để bảo mật dữ liệu</c>
+        <d>Để phòng chống malware</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, Windows Media Player là chương trình ứng dụng như thế nào?</question>
+        <a>Là chương trình chỉnh sửa ảnh</a>
+        <b>Là chương trình nghe nhạc, xem phim</b>
+        <c>Là chương trình xử lý âm thanh</c>
+        <d>Là chương trình để sáng tác nhạc</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, cửa sổ chương trình ứng dụng, thanh cuộn (scroll bar) xuất hiện khi nào?</question>
+        <a>Vùng làm việc lớn hơn cửa sổ chương trình</a>
+        <b>Vùng làm việc nhỏ hơn cửa sổ chương trình</b>
+        <c>Vùng làm việc nhỏ hơn Desktop</c>
+        <d>Vùng làm việc lớn hơn Desktop</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, phần mở rộng của tập tin được tạo như thế nào?</question>
+        <a>Thường do chương trình ứng dụng tự đặt</a>
+        <b>Người dùng có thể thay đổi 1 lần</b>
+        <c>Người dùng không thể thay đổi</c>
+        <d>Thường do người dùng tự đặt tên</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong trình duyệt Google Chrome, để đánh dấu trang web yêu thích, ta dùng lệnh gì?</question>
+        <a>Bookmark</a>
+        <b>History</b>
+        <c>Cookie</c>
+        <d>Save page as</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, lệnh nào cho phép bạn có thể nhìn thấy 2 vị trí bất kỳ trên cùng 1 cửa sổ văn bản?</question>
+        <a>Switch Windows</a>
+        <b>New Windows</b>
+        <c>Arrange All</c>
+        <d>Split</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, muốn cụm từ "Trung tâm tin học" luôn nằm cùng 1 dòng, ta phải dùng tổ hợp phím gì để gõ khoảng trắng giữa các từ đó?</question>
+        <a>Spacebar</a>
+        <b>Ctrl + Spacebar</b>
+        <c>Shift + Spacebar</c>
+        <d>Ctrl + Shift + Spacebar</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, lệnh nào dưới đây là lệnh để định dạng đoạn văn bản?</question>
+        <a>In nghiêng</a>
+        <b>Thay đổi khoảng cách giữa các dòng</b>
+        <c>Thay đổi hướng giấy</c>
+        <d>Đánh số trang</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để chọn toàn bộ văn bản từ vị trí hiện hành của con trỏ văn bản đến cuối văn bản, ta dùng phím gì?</question>
+        <a>Shift + End</a>
+        <b>Ctrl + End</b>
+        <c>End</c>
+        <d>Ctrl + Shift + End</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, lệnh Clear Formatting dùng để làm gì?</question>
+        <a>Xóa định dạng văn bản đang chọn</a>
+        <b>Xóa định dạng ký tự đầu đoạn</b>
+        <c>Xóa văn bản đang chọn</c>
+        <d>Xóa định dạng tab</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để đưa văn bản đang chọn lên cao mà không làm  đổi kích thước ký tự, ta dùng lệnh gì trong hộp thoại Font?</question>
+        <a>Superscript</a>
+        <b>Subscript</b>
+        <c>Position - Raised</c>
+        <d>Position - Lowered</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để xác định vị trí của hình vẽ (shape) đang chọn nằm ẩn phía sau ký tự, ta dùng lệnh gì trong thẻ (Picture Tools) Format?</question>
+        <a>Square</a>
+        <b>Tight</b>
+        <c>Behind Text</c>
+        <d>In front of Text</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, khi con trỏ đang đứng ở ô cuối cùng của bảng biểu, ta nhấn phím Tab, MS Word sẽ thực hiện lệnh gì?</question>
+        <a>Chèn 1 cột trống bên phải cột con trỏ đang đứng</a>
+        <b>Chèn 1 cột trống bên trái cột con trỏ đang đứng</b>
+        <c>Chèn 1 cột trống phía trên dòng con trỏ đang đứng</c>
+        <d>Chèn 1 dòng trống phía cuối bảng</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, lệnh Insert Endnote dùng để làm gì?</question>
+        <a>Chèn chú thích ở đầu trang</a>
+        <b>Chèn chú thích ở cuối trang</b>
+        <c>Chèn chú thích ở đầu văn bản</c>
+        <d>Chèn chú thích ở cuối văn bản</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, tại khối ô A1:A10 có 1 danh sách giá trị số thứ tự từ 1 đến 10. Công thức =COUNT(A1:A10) cho kết quả là bao nhiêu?</question>
+        <a>1</a>
+        <b>10</b>
+        <c>55</c>
+        <d>100</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, công thức =LENT("AB123") trả về kết quả là gì?</question>
+        <a>2</a>
+        <b>5</b>
+        <c>3</c>
+        <d>7</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, minh họa dưới đây là địa chỉ 1 khối ô?</question>
+        <a>A10;B10</a>
+        <b>A10-B10</b>
+        <c>A10:B10</c>
+        <d>A10.B10</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, với công thức có sử dụng địa chỉ ô tương đối, phát biểu nào dưới đây là đúng khi chép công thức theo chiều ngang?</question>
+        <a>Cột trong địa chỉ ô sẽ bị đổi</a>
+        <b>Dòng trong địa chỉ ô sẽ bị đổi</b>
+        <c>Cột và dòng trong địa chỉ ô sẽ bị đổi</c>
+        <d>Cột và dòng trong địa chỉ ô sẽ không đổi</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, tại 1 ô xuất hiện các ký tự ########. Điều đó có nghĩa là gì?</question>
+        <a>Công thức tính toán trong ô quá dài</a>
+        <b>Độ rộng ô không đủ để hiển thị chuỗi văn bản</b>
+        <c>Độ rộng ô không đủ để hiển thị giá trị số hoặc giá trị ngày</c>
+        <d>Excel không hiểu giá trị nhập vào trong ô</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, để chèn thêm cột vào trang tính hiện hành ta thực hiện lệnh nào trong thẻ Insert?</question>
+        <a>Insert Sheet</a>
+        <b>Insert Sheet Rows</b>
+        <c>Insert Sheet Columns</c>
+        <d>Insert Cells</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, các phát biểu nào dưới đây về hàm AND là đúng?</question>
+        <a>Hàm AND trả về giá trị TRUE khi tất cả các đối số có kết quả là TRUE</a>
+        <b>Hàm AND trả về giá trị TRUE khi có nhiều đối số có kết quả là TRUE</b>
+        <c>Hàm AND trả về giá trị TRUE khi ít nhất một đối số có kết quả là FALSE</c>
+        <d>àm AND trả về giá trị TRUE khi duy nhất một đối số có kết quả là FALSE</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, nếu ô Á có giá trị số là 123,456.789 thì công thức =ROUND(A1,-3) cho kết quả là bao nhiêu?</question>
+        <a>123,456</a>
+        <b>123,450</b>
+        <c>123,400</c>
+        <d>123,000</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, làm thế nào để nhập 1 chuỗi ký tự 0123 vào ô bất kỳ?</question>
+        <a>0123</a>
+        <b>'0123</b>
+        <c>"0123</c>
+        <d>"0123"</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, khi tạo hiệu ứng hoạt hình, lệnh Delay có tác dụng gì?</question>
+        <a>Thay đổi thời gian trì hoãn để hiệu ứng bắt đầu thực hiện</a>
+        <b>Thay đổi thời gian phát âm thanh</b>
+        <c>Thay đổi thời gian để hiệu ứng kết thúc</c>
+        <d>Thay đổi thời gian thi hành hiệu ứng</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, loại hiệu ứng hoạt hình nào làm cho 1 đối tượng trên trang chiếu di chuyển theo 1 quỹ đạo xác định?</question>
+        <a>Entrance</a>
+        <b>Emphasis</b>
+        <c>Exit</c>
+        <d>Motion Paths</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để xem trước các hiệu ứng hoạt hình trong khi chọn hiệu ứng, ta chọn lệnh gì trong thẻ Animation - Preview?</question>
+        <a>From Beginning</a>
+        <b>AutoPreview</b>
+        <c>From Current Slide</c>
+        <d>Start</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để chuyển bài trình chiếu thành tập tin văn bản MS Word, ta dùng lệnh gì trong thẻ File - Save and Send?</question>
+        <a>Change File Type</a>
+        <b>Create PDF/XPS Document</b>
+        <c>Create Handouts</c>
+        <d>Publish Slides</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, hiệu ứng Exit dùng để làm gì?</question>
+        <a>Làm đối tượng xuất hiện trên trang chiếu</a>
+        <b>Làm đối tượng nổi bật trên trang chiếu</b>
+        <c>Làm đối tượng biến mất khỏi trang chiếu</c>
+        <d>Làm đối tượng chuyển động theo đường dẫn xác định, trên trang chiếu</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Ứng dụng nào dưới đây cho phép tạo tập tin trình chiếu trực tuyến?</question>
+        <a>LibreOffice Impress</a>
+        <b>OpenOffice.org Impress</b>
+        <c>Google Slides</c>
+        <d>MS PowerPoint</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để thực hiện trình chiếu trực tuyến, ta dùng lệnh gì trong thẻ Slide Show?</question>
+        <a>From Beginning</a>
+        <b>From Current Slide</b>
+        <c>Broadcast Slide Show</c>
+        <d>Set Up Slide Show</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, khi thực hiện chèn Header và Footer cho các trang chiếu, phần nào sau đây cho phép đánh số thứ tự cho các trang chiếu?</question>
+        <a>Footer</a>
+        <b>Date and time - Update automatically</b>
+        <c>Slide Number</c>
+        <d>Date and time - Fixed</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong trình duyệt Google Chrome, nút Back dùng để làm gì?</question>
+        <a>Trở về trang web trước đó</a>
+        <b>Trở về trang chủ của Website hiện hành</b>
+        <c>Trở về trang chủ của trình duyệt</c>
+        <d>Trở về trang web không có nội dung</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Lịch sử duyệt web (history) chứa thông tin gì?</question>
+        <a>Địa chỉ các trang web đã từng duyệt qua</a>
+        <b>Thông tin tài khoản người dùng và mật khẩu khi duyệt web</b>
+        <c>Thông tin dữ liệu tạm khi duyệt web</c>
+        <d>Các trang web yêu thích</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong địa chỉ URL, đáp án nào dưới đây được gọi là giao thức Protocol Identifier?</question>
+        <a>google.com</a>
+        <b>http://</b>
+        <c>http://google.com</c>
+        <d>https://google.com</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Tên miền của tổ chức thiết lập và cung cấp các dịch vụ mạng thường chứa các thành phần gì?</question>
+        <a>NET</a>
+        <b>MIL</b>
+        <c>COM</c>
+        <d>ORG</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Thuật ngữ nào chỉ hành động tải dữ liệu từ Internet về máy tính của bạn?</question>
+        <a>Upload</a>
+        <b>Download</b>
+        <c>Save As</c>
+        <d>Close</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Ứng dụng Google nào dưới đây là trình duyệt web?</question>
+        <a>Google Drive</a>
+        <b>Google Chrome</b>
+        <c>Google +</c>
+        <d>Google Hangout</d>
+        <reply>2</reply>
+    </questionParse>
+
+
+</ListQuestion>

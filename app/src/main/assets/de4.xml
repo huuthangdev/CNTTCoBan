@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<ListQuestion>
+    <questionParse>
+        <question>Đơn vị đo lường xung nhịp của CPU là gì?</question>
+        <a>Gigabyte</a>
+        <b>Hertz</b>
+        <c>Bit</c>
+        <d>Byte</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>SMS là viết tắt của thuật ngữ nào sau đây?</question>
+        <a>Second Message Services</a>
+        <b>Short Message Services</b>
+        <c>Shot Message Services</c>
+        <d>Show Message Services</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Cổng Audio thường xuất dữ liệu dang nào?</question>
+        <a>Phim</a>
+        <b>Hình ảnh</b>
+        <c>Âm thanh</c>
+        <d>Văn bản</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong giao dịch trực tuyến, hình thức trả tiền khi nhận hàng có tên là gì?</question>
+        <a>OTP</a>
+        <b>Token</b>
+        <c>COD</c>
+        <d>FIFO</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Phần mềm độc hại có tên tiếng Anh là?</question>
+        <a>Software</a>
+        <b>Hardware</b>
+        <c>Malware</c>
+        <d>Freeware</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Công dụng của phím Caps Lock là gì?</question>
+        <a>Chuyển sang chế độ chữ in hoa</a>
+        <b>Chuyển sang chế độ chữ thường</b>
+        <c>Bật/tắt chế độ chữ in hoa</c>
+        <d>Bật/tắt chế độ chữ tiếng Việt</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Đĩa CD có dung lượng lưu trữ khoảng bao nhiêu?</question>
+        <a>700 MB</a>
+        <b>700 GB</b>
+        <c>700 TB</c>
+        <d>700 KB</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Khối điều khiển CU là viết tắt của thuật ngữ gì?</question>
+        <a>Control Unit</a>
+        <b>Central Unit</b>
+        <c>Center Unit</c>
+        <d>Controlling Unit</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Công dụng của phím Print Screen là gì?</question>
+        <a>Chụp ảnh màn hình đang hiển thị</a>
+        <b>Kết xuất ảnh màn hình đang hiển thị ra máy in</b>
+        <c>Lưu ảnh màn hình đang hiển thị thành tập tin</c>
+        <d>Chụp ảnh một vùng trên màn hình</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Windows 7, người dùng có thể sử dụng chức năng trợ giúp bằng cách nhấn phím nào?</question>
+        <a>F1</a>
+        <b>F2</b>
+        <c>F3</c>
+        <d>F4</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, mỗi ổ đĩa có tối đa bao nhiêu thư mục gốc?</question>
+        <a>1</a>
+        <b>2</b>
+        <c>3</c>
+        <d>lớn hơn 3</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, chọn chế độ hiển thị nào để cửa sổ phải của Windows Explorer thể hiện các cột: tên, thời gian, kiểu, kích cỡ?</question>
+        <a>Content</a>
+        <b>Large Icons</b>
+        <c>Details</c>
+        <d>List</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, để tạo lối tắt, ta dùng lệnh nào?</question>
+        <a>New - Folder</a>
+        <b>New - Shortcut</b>
+        <c>New - Contact</c>
+        <d>New - Document</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, định dạng nào là định dạng mặc định nén không mất dữ liệu?</question>
+        <a>JPG</a>
+        <b>ZIP</b>
+        <c>MP3</c>
+        <d>MP4</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Chương trình Unikey cho phép chọn kiểu gõ tiếng Việt nào?</question>
+        <a>Chỉ có VNI</a>
+        <b>Chỉ có Telex</b>
+        <c>Chỉ có Telex và VNI</c>
+        <d>Telex, VNI và một số kiểu gõ khác</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, lệnh Properties khi nhấp phải trên biểu tượng Computer dùng để làm gì?</question>
+        <a>Hiển thị các thông tin của tập tin</a>
+        <b>Hiển thị các thông tin của thư mục</b>
+        <c>Hiển thị các thông tin của máy tính</c>
+        <d>Hiển thị các thông tin của ổ đĩa</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, để xác lập thuộc tính tập tin, ta dùng lệnh nào?</question>
+        <a>Cut</a>
+        <b>Paste</b>
+        <c>Properties</c>
+        <d>Rename</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để chặn không cho phép người dùng mở văn bản ra xem, ta dùng lệnh gì?</question>
+        <a>Mark As Final</a>
+        <b>Password to modify</b>
+        <c>Password to open</c>
+        <d>Restrict editing</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để chèn chữ nghệ thuật, ta dùng lệnh gì tại thẻ Insert?</question>
+        <a>Picture</a>
+        <b>WordArt</b>
+        <c>SmartArt</c>
+        <d>Shapes</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để thực hiện ngắt nội dung tại vị trí con trỏ sang đầu trang tiếp theo, ta dùng phím tắt gì?</question>
+        <a>Nhấn Enter đến khi sang đầu trang tiếp theo</a>
+        <b>Ctrl + Page Up</b>
+        <c>Ctrl + Page Down</c>
+        <d>Ctrl + Enter</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để thiết lập khổ giấy in, ta dùng lệnh gì tại thẻ Page Layout?</question>
+        <a>Size</a>
+        <b>Margin</b>
+        <c>Orientation</c>
+        <d>Page Borders</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Khi soạn thảo văn bản hành chính theo thông tư 01/2001/TT-BNV, nội dung văn bản được trình bày trên khổ giấy nào?</question>
+        <a>Khổ giấy A1</a>
+        <b>Khổ giấy A2</b>
+        <c>Khổ giấy A3</c>
+        <d>Khổ giấy A4</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để chèn ký tự đặc biệt vào văn bản, ta dùng lệnh gì?</question>
+        <a>AutoText</a>
+        <b>Field</b>
+        <c>Symbol</c>
+        <d>Reference</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong hộp thoại Word Options, lệnh "Show measurements in units of" dùng để làm gì?</question>
+        <a>Thiết lập khoảng cách mặc định của bước nhảy Tab</a>
+        <b>Thiết lập khoảng cách mặc định của khoảng cách giữa 2 dòng</b>
+        <c>Hiển thị đơn vị đo trên thanh thước</c>
+        <d>Thiết lập đơn vị đó của MS Word</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để thay đổi khoảng cách giữa các ký tự, ta dùng lệnh gì?</question>
+        <a>Line spacing</a>
+        <b>Character Spacing</b>
+        <c>Spacing Before</c>
+        <d>Spacing After</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để thiết lập trang in với khổ giấy đứng ta dùng lệnh gì trong thẻ Page Layout - Orientation?</question>
+        <a>Portrait</a>
+        <b>Landscape</b>
+        <c>Vertical</c>
+        <d>Horizontal</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, để sửa lại dữ liệu có sẵn trong địa chỉ ô ta dùng phím tắt nào?</question>
+        <a>F2</a>
+        <b>F3</b>
+        <c>F4</c>
+        <d>F5</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, để đổi định dạng giá trị số 1200.123 thành 1200.12 ta chọn lệnh gì trong thẻ Home?</question>
+        <a>Comma Style</a>
+        <b>Percent Style</b>
+        <c>Increase Decimal</c>
+        <d>Decrease Decimal</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, tại ô C1 có công thức =$A1*B$1. Sao chép công thức đến ô D1, ta có công thức mới là gì?</question>
+        <a>=$B1*C$1</a>
+        <b>=$A1*B$1</b>
+        <c>=$A1*C$1</c>
+        <d>=$A2*B$2</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, để chọn toàn bộ vùng dữ liệu chứa ô hiện hành, ta dùng phím tắt gì?</question>
+        <a>Ctrl + A</a>
+        <b>Ctrl + B</b>
+        <c>Ctrl + C</c>
+        <d>Ctrl + D</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, tại ô C1 có công thức =$A1*B$1. Sao chép công thức đến ô D1, ta có công thức mới là gì?</question>
+        <a>=$B1*C$1</a>
+        <b>=$A1*B$1</b>
+        <c>=$A1*C$1</c>
+        <d>=$A2*B$2</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, thẻ nào trong hộp thoại Format Cells có chức năng trang trí đường viền trong vùng chọn?</question>
+        <a>Font</a>
+        <b>Border</b>
+        <c>Alignment</c>
+        <d>Fill</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, nếu ô A1 có giá trị số là 123,456.789 thì công thức =ROUND(A1,1) cho kết quả là bao nhiêu?</question>
+        <a>123,456.7</a>
+        <b>123,456.8</b>
+        <c>123,456.78</c>
+        <d>123,456.79</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, giả sử tại ô A1 chứa năm sinh của bạn An. Để tính tuổi của An công thức nào dưới đây là đúng?</question>
+        <a>NOW() - YEAR(A1)</a>
+        <b>NOW() - A1</b>
+        <c>YEAR(NOW()) - A1</c>
+        <d>YEAR(NOW())-YEAR(A1)</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, tên hàm nào dùng để trả về giá trị phụ thuộc vào biểu thức điều kiện đúng hoặc sai?</question>
+        <a>AND</a>
+        <b>OR</b>
+        <c>IF</c>
+        <d>RANK</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Excel 2010, để chuyển biểu đồ từ kiểu cột (column) sang kiểu đường (line), ta dùng lệnh nào trong thẻ (Chart Tools) Design?</question>
+        <a>Change Chart Type</a>
+        <b>Add Chart Element</b>
+        <c>Select Data</c>
+        <d>Switch Row/Column</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, chế độ Slide Sorter dùng để làm gì?</question>
+        <a>Nhập nội dung chú thích cho trang chiếu</a>
+        <b>Xem trước việc trình diễn của các hiệu ứng, các đoạn phim và âm thanh</b>
+        <c>Hiển thị các trang chiếu dưới dạng thu nhỏ, giúp dễ dàng sắp xếp lại các trang chiếu</c>
+        <d>Thiết kế nội dung trang chiếu</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, tại chế độ hiển thị Slide Sorter, lệnh Zoom cho phép làm gì?</question>
+        <a>Cho phép phóng to, thu nhỏ các trang chiếu chẵn</a>
+        <b>Cho phép phóng to, thu nhỏ các trang chiếu lẻ</b>
+        <c>Cho phép phóng to, thu nhỏ tất cả trang chiếu</c>
+        <d>Cho phép phóng to, thu nhỏ các trang chiếu đang chọn</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, lệnh Slide from Outline cho phép chèn nội dung, để tạo trang chiếu mới, tù tập tin có định dạng nào?</question>
+        <a>GIF</a>
+        <b>XLSX</b>
+        <c>DOCX</c>
+        <d>JPG</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, khi làm việc với đoạn văn bản, để tăng cấp danh sách cho đoạn văn bản, ta dùng phím gì?</question>
+        <a>Tab</a>
+        <b>Esc</b>
+        <c>F5</c>
+        <d>Shift + F5</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để hiển thị bảng dữ liệu của đồ thị, ta dùng lệnh gì?</question>
+        <a>Gridlines</a>
+        <b>Axix Titles</b>
+        <c>Data Labels</c>
+        <d>Data Table</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, khi chèn thêm hình ảnh thì dung lượng bài trình chiếu sẽ như thế nào?</question>
+        <a>Dung lượng không thay đổi</a>
+        <b>Dung lượng sẽ thay đổi</b>
+        <c>Dung lượng sẽ tăng thêm</c>
+        <d>Dung lượng sẽ giảm đi</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để thay đổi thời gian trình diễn của 1 hiệu ứng chuyển trang chiếu, ta dùng lệnh gì?</question>
+        <a>Delay</a>
+        <b>Duration</b>
+        <c>After</c>
+        <d>Repeat</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong công cụ tìm kiếm (search engine) Google, nút lệnh "Công cụ" (Tools) dùng để làm gì?</question>
+        <a>Tìm theo thời gian</a>
+        <b>Tìm hình ảnh</b>
+        <c>Tìm với bộ lọc theo ngữ cảnh</c>
+        <d>Tìm theo ngôn ngữ</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>YouTube là loại dịch vụ gì trên Internet?</question>
+        <a>Tìm và chia sẻ nhạc</a>
+        <b>Tìm và chia sẻ hình ảnh</b>
+        <c>Tìm đường đi</c>
+        <d>Tìm và chia sẻ phim</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Dịch vụ lưu trữ trực tuyến của Microsoft có tên là gì?</question>
+        <a>Dropbox</a>
+        <b>OneDrive</b>
+        <c>FShare</c>
+        <d>Amazon Drive</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Các công cụ dưới đây, công cụ nào là trình duyệt web?</question>
+        <a>Windows Explorer</a>
+        <b>Google Chrome</b>
+        <c>Windows Defender</c>
+        <d>Parental Controls</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Thuật ngữ WAN dùng để chỉ loại mạng máy tính nào?</question>
+        <a>Mạng cục bộ</a>
+        <b>Mạng diện rộng</b>
+        <c>Mạng toàn cầu</c>
+        <d>Mạng Internet tốc độ cao</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Mạng Internet là gì?</question>
+        <a>Là mạng thông tin toàn cầu sử dụng giao thức truyền thông TCP/IP</a>
+        <b>Là mạng thông tin liên kết các mạng máy tính nội bộ</b>
+        <c>Là mạng thông tin kết nối các đơn vị tổ chức nhà nước</c>
+        <d>Là mạng thông tin toàn cầu do công ty Microsoft sở hữu</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Thư diện tử (Email) có những ưu điểm nào?</question>
+        <a>Độ bảo mật cao, có thể nhận thư điện tử mà không cần kết nối Internet</a>
+        <b>Không bị thất lạc, có thể gửi kèm nhiều loại tài liệu với dung lượng không hạn chế</b>
+        <c>Có thể gửi cho nhiều người cùng lúc, tiết kiệm thời gian và chi phí</c>
+        <d>Dung lượng của hòm thư không bị hạn chế</d>
+        <reply>3</reply>
+    </questionParse>
+
+
+</ListQuestion>

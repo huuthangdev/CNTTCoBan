@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<ListQuestion>
+
+    <questionParse>
+        <question>Chương trình soạn thảo văn bản MS Word thuộc loại phần mềm nào?</question>
+        <a>Phần mềm hệ thống</a>
+        <b>Phần mềm ứng dụng</b>
+        <c>Phần mềm miễn phí</c>
+        <d>Phần mềm mã nguồn mở</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Hệ điều hành nào sau đây là hệ điều hành mã nguồn mở?</question>
+        <a>MS-DOS</a>
+        <b>Windows XP</b>
+        <c>Ubuntu</c>
+        <d>Windows 7</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Thuật ngữ email là viết tắt của cụm từ nào sau đây?</question>
+        <a>Exchange Mail</a>
+        <b>Electronic Mail</b>
+        <c>Enrich Mail</c>
+        <d>Extra Mail</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Adware là phần mềm gì?</question>
+        <a>Là phần mềm mở cổng hậu để xâm nhập và gây hại máy tính</a>
+        <b>Là phần mềm quảng cáo thường gây khó chịu cho người dùng</b>
+        <c>Là phần mềm thu thập thông tin dữ liệu trong máy tính</c>
+        <d>Là phần mềm thu thập các thông tin được gõ trên bàn phím</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Màn hình kết nối với máy tính bằng cổng kết nối nào?</question>
+        <a>COM</a>
+        <b>PS/2</b>
+        <c>USB</c>
+        <d>VGA</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Khi tạo mật khẩu cho email, bạn không được phép dùng ký tự nào?</question>
+        <a>Ký tự đặc biệt</a>
+        <b>Ký tự in hoa</b>
+        <c>Ký số</c>
+        <d>Tất cả ký tự đều được sử dụng</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Phần mềm nào sau đây là phần mềm độc hại?</question>
+        <a>Virus, Worm</a>
+        <b>MS Word, MS Excel</b>
+        <c>Paint, BKAV</c>
+        <d>Gadgets, Windows Media Player</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Khối tính toán trong CPU có tên gọi là gì?</question>
+        <a>CU</a>
+        <b>ALU</b>
+        <c>Registers</c>
+        <d>Cache</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, Windows Defender có thể chọn quét riêng 1 thư mục hay tập tin cụ thể bằng lệnh nào?</question>
+        <a>Real-time protection</a>
+        <b>Quick Scan</b>
+        <c>Full Scan</c>
+        <d>Custom Scan</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Cửa sổ các chương trình ứng dụng trong hệ điều hành Windows thướng có dạng nào?</question>
+        <a>Hình tam giác</a>
+        <b>Hình chữ nhật</b>
+        <c>Hình tròn</c>
+        <d>Có hình dạng bất kỳ</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, để hiển thị tiếng Việt trong phần mềm soạn thảo văn bản, máy tính phải được cài đặt gì?</question>
+        <a>Trình điều khiển bàn phím tiếng Việt</a>
+        <b>Font chữ tiếng Việt</b>
+        <c>Trình điều khiển bàn phím tiếng Việt và Font Unicode</c>
+        <d>Trình điều khiển bàn phìm Unikey và Font Unicode</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Bộ Font chữ tích hợp tất cả các ký tự của đa số ngôn ngữ là bộ font chữ nào?</question>
+        <a>Unicode</a>
+        <b>VNI</b>
+        <c>TCVN3</c>
+        <d>Vietware</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Định dạng nào sau đây là định dạng phim ảnh?</question>
+        <a>WAV</a>
+        <b>JPG</b>
+        <c>SWF</c>
+        <d>AVI</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Con chuột máy tính là loại thiết bị nào?</question>
+        <a>Là thiết bị xuất, cho phép người dùng lựa chọn, thi hành một số lệnh của máy tính</a>
+        <b>Là thiết bị đầu cuối dùng để thi hành một số lệnh của máy tính</b>
+        <c>Là thiết bị nhập, giúp người dùng lựa chọn, thi hành một số lệnh của máy tính</c>
+        <d>Lá thiết bị nhập, cho phép người dùng nhập văn bản</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Các thiết bị điện của máy tính thường được tiếp đất, mục đícb chính của việc này là gì?</question>
+        <a>Chống sét</a>
+        <b>Bảo vệ an toàn cho người dùng</b>
+        <c>Bảo vệ an toàn cho thiết bị</c>
+        <d>Chống nhiễu</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Khi hệ điều hành Windows bị lỗi, người dùng thường có thể khắc phục bằng cách nào?</question>
+        <a>Đăng nhập lại máy tính</a>
+        <b>Cài đặt lại MS Office</b>
+        <c>Thay ổ đĩa cứng mới</c>
+        <d>Cài đặt lại MS Windows</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Công dụng của phím ESC là gì?</question>
+        <a>Thoát chương trình</a>
+        <b>Hủy bỏ 1 lệnh đang thực hiện</b>
+        <c>Thoát và khởi động lại chương trình</c>
+        <d>Hủy bỏ lệnh vừa thực hiện xong</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để thay đổi chiều rộng cột thứ 2 trong bảng dữ liệu, ta thực hiện lệnh gì?</question>
+        <a>Trỏ chuột tại đường biên phải của cột thứ 2 - nhấp và di chuyển chuột</a>
+        <b>Trỏ chuột tại đường biên trái của cột thứ 2 - nhấp và di chuyển chuột</b>
+        <c>Nhấp đúp chuột tại đường biên trái cột thứ 2</c>
+        <d>Nhấp đúp chuột tại đường biên trái cột thứ nhất</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, lệnh Insert Footnote dùng để làm gì?</question>
+        <a>Chèn chú thích ở đầu trang</a>
+        <b>Chèn chú thích ở cuối trang</b>
+        <c>Chèn chú thích ở đầu văn bản</c>
+        <d>Chèn chú thích ở cuối văn bản</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để chèn thêm 1 cột bên trái cột đang chọn trong bảng biểu, ta dùng lệnh gì trong thẻ (Table Tools) Layout?</question>
+        <a>Insert Above</a>
+        <b>Insert Below</b>
+        <c>Insert Left</c>
+        <d>Insert Right</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để in các trang lẻ của văn bản, ta dùng lệnh gì trong thẻ File - Print?</question>
+        <a>Print All Pages</a>
+        <b>Only Print Odd Pages</b>
+        <c>Only Print Even Pages</c>
+        <d>Print Custom Range</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để chuyển đổi chữ thường sang chữ in hoa, ta dùng phím tắt gì?</question>
+        <a>Ctrl + F3</a>
+        <b>Shift + F3</b>
+        <c>Ctrl + F4</c>
+        <d>Shift + F4</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để khai báo thông số lề đóng gáy tài liệu, ta dùng lệnh gì?</question>
+        <a>Left Margin</a>
+        <b>Left Indent</b>
+        <c>Gutter</c>
+        <d>Orientation</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, lệnh All caps trong hộp thoại Font dùng để làm gì?</question>
+        <a>Định dạng văn bản có dạng chữ hoa</a>
+        <b>Định dạng văn bản có dạng chữ hoa nhỏ</b>
+        <c>Định dạng văn bản có dạng chữ hoa đầu mỗi từ</c>
+        <d>Định dạng văn bản có dang chữ hoa đầu câu</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để định dạng văn bản đang chọn có dạng chỉ số dưới, ta dùng phím gì?</question>
+        <a>Shift + =</a>
+        <b>Ctrl + =</b>
+        <c>Alt + =</c>
+        <d>Ctrl + Shift + =</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để thay đổi tỷ lệ hiển thị nội dung văn bản, ta dùng phím gì?</question>
+        <a>Ctrl + ]</a>
+        <b>Ctrl + [</b>
+        <c>Ctrl + nhấp phải chuột</c>
+        <d>Ctrl + lăn nút cuộn của chuột</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Khi nhập 1 giá trị ngày tháng không hợp lệ, Excel 2010 nhận dạng dữ liệu đó là kiểu dữ liệu gì?</question>
+        <a>Số</a>
+        <b>Chuỗi</b>
+        <c>Công thức</c>
+        <d>Logic</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, phát biểu nào dưới đây là đúng?</question>
+        <a>Một trang in gọi là Worksheet</a>
+        <b>Một trang tính gọi là Workbook</b>
+        <c>Trong 1 Workbook có thể của nhiều Worksheet</c>
+        <d>Trong 1 Worksheet có thể chứa nhiều Workbook</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, địa chỉ nào dưới đây là địa chỉ hỗn hợp cố định cột?</question>
+        <a>B1</a>
+        <b>B$1</b>
+        <c>$B$1</c>
+        <d>$B1</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, giá trị nào dưới đây là kết quả của định dạng Comma Style trên thẻ Home?</question>
+        <a>1,234,567.00</a>
+        <b>1,234,567</b>
+        <c>1234567.00</c>
+        <d>1234567</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, công thức tại ô À là =SUM(10,-20,30) cho kết quả là bao nhiêu?</question>
+        <a>10</a>
+        <b>20</b>
+        <c>30</c>
+        <d>60</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, cú pháp của công thức nào là sai?</question>
+        <a>=INT(10,3)</a>
+        <b>=MOD(10,3)</b>
+        <c>=ROUND(A1,-1)</c>
+        <d>=SUM(A1,A1:A10)</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, công thức =MID("THSP1234",3,4) sẽ cho kết quả là gì?</question>
+        <a>1234</a>
+        <b>4321</b>
+        <c>THSP</c>
+        <d>SP12</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, các phát biểu nào dưới đây về hàm OR là đúng?</question>
+        <a>Hàm OR trả về giá trị TRUE khi tất cả đối số có kết quả là FALSE</a>
+        <b>Hàm OR trả về giá trị TRUE khi ít nhất một đối số có kết quả là TRUE</b>
+        <c>Hàm OR trả về giá trị FALSE khi tất cả đối số có kết quả là TRUE</c>
+        <d>Hàm OR trả về giá trị FALSE khi ít nhất một đối số có kết quả là TRUE</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, công thức =IF(5>10,100) trả về kết quả là gì?</question>
+        <a>TRUE</a>
+        <b>FALSE</b>
+        <c>100</c>
+        <d>MS Excel hiện thông báo lỗi</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để thay đổi vị trí cho bảng chú thích của đồ thị, ta dùng lệnh gì trong (Chart Tools) Layout?</question>
+        <a>Chart Title</a>
+        <b>Axis</b>
+        <c>Axes</c>
+        <d>Legend</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để thực hiện kẻ khung cho hình ảnh, ta dùng lệnh gì?</question>
+        <a>Text Outline</a>
+        <b>Shape Outline</b>
+        <c>Picture Border</c>
+        <d>Picture Effects</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, khi tạo sơ đồ tổ chứa (hierarchy), muốn thăng cấp cho 1 đối tượng, ta dùng lệnh gì?</question>
+        <a>Promote</a>
+        <b>Demote</b>
+        <c>Move Down</c>
+        <d>Move Up</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, khi tạo hiệu ứng chuyển trang chiếu, lệnh Effect Options thường dùng để làm gì?</question>
+        <a>Thay đổi hướng của hiệu ứng</a>
+        <b>Thay đổi thời gian chờ để xuất hiện hiệu ứng</b>
+        <c>Thay đổi thời gian thi hành hiệu ứng</c>
+        <d>Thay đổi kiểu hiệu ứng</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, loại hiệu ứng hoạt hình nào dùng để nhấn mạnh đối tượng trên trang chiếu?</question>
+        <a>Entrance</a>
+        <b>Emphasis</b>
+        <c>Exit</c>
+        <d>Motion Paths</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, lệnh Clip Art được dùng để làm gì?</question>
+        <a>Chèn hình ảnh từ tập tin trong máy tính</a>
+        <b>Chèn đối tượng từ thư viện của Microsoft Office</b>
+        <c>Chèn đồ thị từ thư viện của Microsoft Office</c>
+        <d>Chèn sơ đồ từ thư viện của Microsoft Office</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, hiệu ứng Motion Paths dùng để làm gì?</question>
+        <a>Làm xuất hiện đối tượng trên trang chiếu</a>
+        <b>Làm nổi bật đối tượng trên trang chiếu</b>
+        <c>Làm đối tượng thoát ra khỏi trang chiếu</c>
+        <d>Làm đối tượng chuyển động theo quỹ đạo xác định</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để in nhiều trang chiếu (slide) trên một  trang giấy, ta dùng lệnh gì?</question>
+        <a>Print Layout</a>
+        <b>Notes Page</b>
+        <c>Handouts</c>
+        <d>Reading View</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>YouTube là dịch vụ của công ty nào?</question>
+        <a>Microsoft</a>
+        <b>Apple</b>
+        <c>Google</c>
+        <d>Samsung</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>OneDrive là loại dịch vụ gì trên Internet?</question>
+        <a>Lưu trữ trực tuyến</a>
+        <b>Tìm và chia sẻ hình ảnh</b>
+        <c>Tìm và chia sẻ phim</c>
+        <d>Thư điện tử</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Khi gửi thư điện tử bằng Gmail, đối tượng nào sau đây không thể đính kèm?</question>
+        <a>Một tập tin hình ảnh</a>
+        <b>Một tập tin văn bản</b>
+        <c>Một thư mục</c>
+        <d>Một tập tin nén</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Google Sheets là ứng dụng trực tuyến dùng để làm gì trên Internet?</question>
+        <a>Tạo trang web</a>
+        <b>Tạo bảng tính</b>
+        <c>Tạo bài trình chiếu</c>
+        <d>Tạo văn bản</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Dịch vụ hành chính công là gì?</question>
+        <a>Dịch vụ liên quan đến hoạt động thực thi pháp luật có mục tiêu lợi nhuận</a>
+        <b>Dịch vụ liên quan đến hoạt động kinh doanh của tổ chức nhà nước</b>
+        <c>Dịch vụ liên quan đến hoạt động giáo dục của tổ chức nhà nước</c>
+        <d>Dịch vụ liên quan đến hoạt động thực thi pháp luật không nhằm mục tiêu lợi nhuận</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Bàn phím ảo trong trang tìm kiếm google.com.vn sử dụng kiểu gõ gì?</question>
+        <a>VNI</a>
+        <b>Telex</b>
+        <c>Không gõ được tiếng Việt</c>
+        <d>Người dùng có thể tùy chọn kiểu gõ VNI hay Telex</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Khi nhập 1 giá trị ngày tháng không hợp lệ, Excel 2010 nhận dạng dữ liệu đó là kiểu dữ liệu gì?</question>
+        <a>Số</a>
+        <b>Chuỗi</b>
+        <c>Công thức</c>
+        <d>Logic</d>
+        <reply>2</reply>
+    </questionParse>
+    
+</ListQuestion>

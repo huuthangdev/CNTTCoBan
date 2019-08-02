@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<ListQuestion>
+    <questionParse>
+        <question>Trong mạng máy tính, LAN là viết tắt của thuật ngữ gì?</question>
+        <a>Location Area Network</a>
+        <b>Local Area Network</b>
+        <c>Location And Network</c>
+        <d>Local And Network</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong các phần mềm sau, phần mềm nào là phần mềm miễn phí?</question>
+        <a>Phần mềm Microsoft Windows</a>
+        <b>Phần mềm Microsoft Office</b>
+        <c>Phần mềm Unikey</c>
+        <d>Phần mềm Adobe Photoshop CS5</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Lĩnh vực kinh doanh trực tuyến trên mạng Internet thường được gọi là gì?</question>
+        <a>e-commerce</a>
+        <b>e-learning</b>
+        <c>e-government</c>
+        <d>e-health</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Cần điều khiển (joystick) thường được kết nối với máy tính bằng cổng nào?</question>
+        <a>PS2</a>
+        <b>COM</b>
+        <c>USB</c>
+        <d>HDMI</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong mạng máy tính, cổng nào thường được dùng để kết nối các máy tính với nhau?</question>
+        <a>RJ45</a>
+        <b>VGA</b>
+        <c>HDMI</c>
+        <d>PS/2</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Nhóm phần mềm nào dưới đây là các phần mềm diệt Virus?</question>
+        <a>Windows Defender, BKAV, Norton Antivirus</a>
+        <b>Windows Explorer, Windows Defender, BKAV</b>
+        <c>Windows Explorer, Windows Defender, NAV</c>
+        <d>Norton Antivirus, AVG, WordPad</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Thuật ngữ tiếng Anh nào sau đây dùng để chỉ phần mềm mã nguồn mở?</question>
+        <a>Open source software</a>
+        <b>Free software</b>
+        <c>Commerical software</c>
+        <d>Freeware</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Thành phần nào là bộ xử lý trung tâm của máy tính?</question>
+        <a>CPU</a>
+        <b>ROM</b>
+        <c>RAM</c>
+        <d>Mainboard</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, bạn có thể tạo hai tập tin trùng tên chính trong một thư mục được không?</question>
+        <a>Không được phép</a>
+        <b>Được phép, với điều kiện dung lượng tập tin khác nhau</b>
+        <c>Được phép, với điều kiện phần mở rộng phải khác nhau</c>
+        <d>Được phép, với điều kiện thời gian tập tin khác nhau</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Công dụng của phím Shift là gì?</question>
+        <a>Mở menu Start của Windows</a>
+        <b>Phải dùng kết hợp với các phím khác</b>
+        <c>Đẩy con trỏ hay ký tự sang phải 1 khoảng cách</c>
+        <d>Bật/Tắt chế độ gõ chữ IN HOA</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, để di chuyển tập tin, ta dùng lệnh nào?</question>
+        <a>Copy</a>
+        <b>Cut</b>
+        <c>Rename</c>
+        <d>Delete</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Định dạng nào sau đây là định dạng âm thanh?</question>
+        <a>WAV</a>
+        <b>JPG</b>
+        <c>SWF</c>
+        <d>AVI</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trên thanh taskbar của Win 7, nút lệnh nào cho phép thu nhỏ tất cả các ứng dụng đang mở?</question>
+        <a>Start</a>
+        <b>Show desktop</b>
+        <c>Show hidden icons</c>
+        <d>Solve PC issues</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Sau khi dùng kỹ thuật nén mất dữ liệu (lossy compression) trên máy tính, thì dữ liệu sau khi giải nén sẽ như thế nào?</question>
+        <a>Vẫn giống dữ liệu ban đầu</a>
+        <b>Không còn là dữ liệu ban đầu</b>
+        <c>Là dữ liệu ban đầu nhưng có thời gian tạo lập là thời gian hiện hành</c>
+        <d>Là dữ liệu ban đầu và có thời gian tạo lập là thời gian lúc bắt đầu nén dữ liệu</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trên thanh taskbar của Windows 7, phần điều khiển âm lượng (speakers) nằm ở vùng nào?</question>
+        <a>Pin</a>
+        <b>Nút Start</b>
+        <c>Các ứng dụng đang mở</c>
+        <d>Các ứng dụng thường trú, ngày giờ</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong cửa sổ chương trình ứng dụng Win 7, thanh tiêu đề (title bar) thường ở vị trí nào?</question>
+        <a>Trên</a>
+        <b>Dưới</b>
+        <c>Trái</c>
+        <d>Phải</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, để đóng một ứng dụng đang mở, bạn cần thực hiện thao tác gì?</question>
+        <a>Nhấp vào dấu 'X' ở góc bên phải cửa sổ ứng dụng</a>
+        <b>Nhấn phím ESC</b>
+        <c>Nhấn phím Alt + F2</c>
+        <d>Nhấn phím Delete</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, thông số Page 3 of 5 trên thanh trạng thái có nghĩa là gì?</question>
+        <a>Cho biết văn bản hiện hành có tổng số trang là 3</a>
+        <b>Cho biết văn bản hiện hành có tổng số trang là 5</b>
+        <c>Cho biết văn bản hiện hành đang hiển thị trang số 5 trên tổng số 3 trang của văn bản</c>
+        <d>Cho biết văn bản hiện hành đang hiển thị trang số 3 trên tổng số 5 trang của văn bản</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để chọn toàn bộ văn bản từ vị trí con trỏ đến đầu văn bản, ta dùng tổ hợp phím gì?</question>
+        <a>Ctrl + Home</a>
+        <b>Alt + Home</b>
+        <c>Shift + Home</c>
+        <d>Ctrl + Shift + Home</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, lệnh Format Painter dùng để làm gì?</question>
+        <a>Sao chép văn bản</a>
+        <b>Sao chép định dạng văn bản</b>
+        <c>Xóa định dạng văn bản</c>
+        <d>Sao chép hiệu ứng văn bản</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để định dạng văn bản có dạng chữ in hoa nhỏ, ta dùng lệnh gì?</question>
+        <a>Change Case - UPPER</a>
+        <b>Change Case - lowercase</b>
+        <c>Hộp thoại Font - All Caps</c>
+        <d>Hộp thoại Font - Small Caps</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để định dạng màu nền cho đoạn văn bản đang chọn, ta dùng lệnh gì?</question>
+        <a>Font Color</a>
+        <b>Text Highlight Color</b>
+        <c>Shading</c>
+        <d>Borders</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để sao chép định dạng liên tiếp cho nhiều khổi văn bản khác nhau, ta thực hiện lệnh Format Painter như thế nào?</question>
+        <a>Nhấp nút Format Painter</a>
+        <b>Nhấp đúp nút Format Painter</b>
+        <c>Nhấp ba lần liên tiếp nút Format Painter</c>
+        <d>Không thực hiện được</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để xóa dòng đang chọn trong bảng dữ liệu, ta dùng lệnh gì trong thẻ (Table Tools) Layout?</question>
+        <a>Delete - Delete Rows</a>
+        <b>Delete - Delete Columns</b>
+        <c>Delete - Delete Table</c>
+        <d>Nhấn phím Delete</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, phát biểu nào dưới đây là đúng?</question>
+        <a>Tên trang tính và tên bảng tính không được có các ký tự đặc biệt như: /,\,?,*,:</a>
+        <b>Tên trang tính và tên bảng tính có thể có các ký tự đặc biệt như: /,\,?,*,:</b>
+        <c>Tên trang tính và tên bảng tính được phép đặt trùng tên với những tên đã có</c>
+        <d>Tên trang tính và tên bảng tính được phép để trống</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, để di chuyển ô hiện hành về địa chỉ ô A1, ta dùng phím tắt nào?</question>
+        <a>Ctrl + Home</a>
+        <b>Shift + Home</b>
+        <c>Ctrl + Shift + Home</c>
+        <d>Ctrl + Alt + Home</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question><![CDATA[Trong MS Excel 2010, tại các ô A1, A2 có giá trị số lần lượt là 1 & 3. Chọn khối ô A1:A2, dùng AutoFill chép dữ liệu xuống, thì tại ô A3 sẽ có giá trị bao nhiêu?]]></question>
+        <a>2</a>
+        <b>3</b>
+        <c>4</c>
+        <d>5</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, nếu ô A1 có giá trị là Nguyễn Văn, A2 có giá trị là An. Sử dụng công thức như thế nào để có kết quả tại ô A3 là Nguyễn Văn An?</question>
+        <a><![CDATA[=A1 & A2]]></a>
+        <b>=A1 + A2</b>
+        <c>=A1+" "+A2</c>
+        <d><![CDATA[=A1 & " " & A2]]></d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, thẻ Border trong hộp thoại Format Cells có chức năng gì?</question>
+        <a>Canh lề dữ liệu</a>
+        <b>Tô màu dữ liệu</b>
+        <c>Kẻ đường viền khung</c>
+        <d>Tô màu nền cho ô</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, A1:A10 là 1 khối ô chứa dữ liệu trong đó có hai ô chứa giá trị chuỗi và các ô còn lại chứa giá trị số. Công thức =COUNTA(A1:A10) cho kết quả là bao nhiêu?</question>
+        <a>1</a>
+        <b>2</b>
+        <c>8</c>
+        <d>10</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, tại ô A1 có giá trị kiểu ngày là 15/06/2012. Hàm YEAR(A1) sẽ cho kết quả là bao nhiêu?</question>
+        <a>15</a>
+        <b>06</b>
+        <c>12</c>
+        <d>2012</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, tại ô A1 có chuỗi giá trị là "TK1234-01". Công thức =VALUE(RIGHT(A1,2)) sẽ cho kết quả là gì?</question>
+        <a>TK</a>
+        <b>01</b>
+        <c>1</c>
+        <d>0</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, tại địa chỉ ô A1 của trang tính hiện hành có 1 chuỗi giá trị là "TK2014-01". Tại ô B1, sử dụng công thức: =VALUE(RIGHT(A1,7)) thì kết quả sẽ là gì?</question>
+        <a>#VALUE!</a>
+        <b>#N/A</b>
+        <c>#NAME!</c>
+        <d>#####</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, thuộc tính Slide 2 of 4 trên thanh trạng thái có ý nghĩa là gì?</question>
+        <a>Bài trình chiếu hiện hành có tổng số trang là 2</a>
+        <b>Bài trình chiếu hiện hành có tổng số trang là 4</b>
+        <c>Bài trình chiếu hiện hành đang hiện thị trang số 4 trên tổng số 2 trang</c>
+        <d>Bài trình chiếu hiện hành đang hiện thị trang số 2 trên tổng số 4 trang</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để thoát khỏi chế độ trình chiếu, ta dùng phím gì?</question>
+        <a>End</a>
+        <b>Esc</b>
+        <c>Pause</c>
+        <d>Shift + F5</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để chuyển sang cửa sổ bài trình chiếu đã mở khác, ta dùng lệnh gì?</question>
+        <a>New Windows</a>
+        <b>Switch Windows</b>
+        <c>Fit to Windows</c>
+        <d>Move Split</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, lệnh "Don't show on title slide" sẽ không hiển thị Footer tại trang chiếu nào?</question>
+        <a>Trang chiếu có bố cục là tiêu đề</a>
+        <b>Các trang chiếu chẵn</b>
+        <c>Các trang chiếu lẻ</c>
+        <d>Trang chiếu đầu tiên và trang chiếu cuối cùng</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, lệnh Save As sẽ lưu tập tin trình chiếu có phần mở rộng mặc định là gì?</question>
+        <a>Remove Section</a>
+        <b><![CDATA[Remove Section & Slides]]></b>
+        <c>Remove All Sections</c>
+        <d>Rename Section</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, tại chế độ hiển thị Normal View, khung chứa nội dung "Click to add notes" dùng để làm gì?</question>
+        <a>Nhập chú thích cho cả bài trình chiếu</a>
+        <b>Nhập chú thích cho trang chiếu</b>
+        <c>Nhập chú thích cho các đối tượng</c>
+        <d>Nhập chú thích cho 1 đối tượng</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS PowerPoint 2010, để tạo 1 bài trình chiếu mới, ta dùng phím gì?</question>
+        <a>Ctrl + N</a>
+        <b>Ctrl + M</b>
+        <c>Shift + F5</c>
+        <d>Shift + Tab</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Nút Home trong trình duyệt Google Chrome dùng để làm gì?</question>
+        <a>Trở vè trang chủ của trình duyệt</a>
+        <b>Trở về trang chủ của Website hiện hành</b>
+        <c>Trở về vị trí đầu của trang web hiện hành</c>
+        <d>Trở về trang web không có nội dung</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong trình duyệt Google Chrome, để đánh dấu địa chỉ 1 trang web, ta dùng lệnh gì?</question>
+        <a>History</a>
+        <b>Bookmark</b>
+        <c>Save link as</c>
+        <d>Copy link address</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Tên miền của tổ chức chính phủ thường chứa thành phần gì?</question>
+        <a>COM</a>
+        <b>ORG</b>
+        <c>EDU</c>
+        <d>GOV</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong trang web, các siêu liên kết (hyperlink) thường dùng để làm gì?</question>
+        <a>Chuyển đến trang web khác</a>
+        <b>Chuyển đến trang tiếp theo</b>
+        <c>Chuyển về trang trước đó</c>
+        <d>Chuyển đến trang chủ của trình duyệt web</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Thuật ngữ nào chỉ hành động tải dữ liệu từ máy tính của bạn lên Internet?</question>
+        <a>Upload</a>
+        <b>Download</b>
+        <c>Open</c>
+        <d>Close</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong trình duyệt Google Chrome, để mở 1 liên kết trên 1 thẻ mới, ta dùng lệnh gì?</question>
+        <a>Open link in new window</a>
+        <b>Open link in new tab</b>
+        <c>Open link in new incognito window</c>
+        <d>Save link as</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong trình duyệt Google Chrome, chức năng Bookmark dùng để làm gì?</question>
+        <a>Lưu lại địa chỉ của 1 số trang web yêu thích mà người dùng muốn đánh dấu</a>
+        <b>Lưu lại địa chỉ các trang web mà người dùng đã từng duyệt qua</b>
+        <c>Lưu lại địa chỉ các trang web mà người dùng cần chặn</c>
+        <d>Lưu lại mật khẩu để truy cập các trang web</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Powerpoint 2010, lệnh Save AS sẽ lưu tập tin trình chiếu có phần mở rộng mặc định là gì?</question>
+        <a>PPT</a>
+        <b>PPTX</b>
+        <c>PPTM</c>
+        <d>POTX</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, nội dung văn bản nào dưới đây  là nhập đúng quy cách soạn thảo văn bản?</question>
+        <a>"Máy tính cá nhân (personal computer) , thường được gọi là máy tính."</a>
+        <b>"Máy tính cá nhân (personal computer ), thường được gọi là máy tính."</b>
+        <c>"Máy tính cá nhân (personal computer) ,thường được gọi là máy tính."</c>
+        <d>"Máy tính cá nhân (personal computer), thường được gọi là máy tính."</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để định dạng văn bản có dạng chữ in hoa nhỏ, ta dùng lệnh gì?</question>
+        <a>Change Case - UPPER</a>
+        <b>Change Case - lower</b>
+        <c>Hộp thoại Font - Small Caps</c>
+        <d>Hộp thoại Font - All Caps</d>
+        <reply>3</reply>
+    </questionParse>
+
+</ListQuestion>
